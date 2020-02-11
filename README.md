@@ -1,0 +1,2 @@
+# Combinatorics
+Some algorithm magic
